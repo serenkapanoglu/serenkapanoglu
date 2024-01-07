@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from United States</h3>
 
 ###
-<img width="30%" src="https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif" alt="serenkapanoglu"/>
+<img width="30%" align="center" src="https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif" alt="serenkapanoglu"/>
 
 ###
 
