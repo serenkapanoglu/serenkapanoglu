@@ -3,9 +3,9 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmgxNDdvanU5NDB3cTVnaGF4eWZ4cDlhamx4cnBtOXFhcjhqemoweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhVqGkxDYxAaRbOWVp/giphy.gif" alt="serenkapanoglu"/>
 <h3 align="center">A passionate software engineer from United States</h3>
 
-###
-<img width="30%" src="https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif" alt="serenkapanoglu" align="right"/>
 
+<img width="30%" src="https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif" alt="serenkapanoglu" align="right"/>
+###
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
