@@ -6,7 +6,6 @@
 ###
 <img width="30%" src="https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif" alt="serenkapanoglu" align="right"/>
 
-###
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
