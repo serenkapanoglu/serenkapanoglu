@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Seren</h1>
+<div align="center">
+
+<hr>
+
+<h1> 
+ 
+ 
+<img  src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BE0F&width=435&lines=Hello+I+am+Seren+Kapanoglu)](https://git.io/typing-svg) <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif">
+
+  </h1>
 
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
+###
 
-## 🌐 Contact  me :
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulseren-kapanoglu/) 
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:kapanogluseren01@gmail.com)
-<br/>
-<br/>
+<img width="30%" src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif"/>
 
 
 
