@@ -1,6 +1,6 @@
 <h1 align="center">Hello guys, I'm Seren Kapanoglu</h1>
 <h3 align="center">A passionate software engineer from United States</h3>
-
+<img src="https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif" alt="serenkapanoglu"/>
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
 - 💬 Ask me about **Flask,JavaScript**
