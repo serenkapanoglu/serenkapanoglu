@@ -1,9 +1,9 @@
 <h1 align="center">Hello guys, I'm Seren Kapanoglu</h1>
 <h3 align="center">A passionate software engineer from United States</h3>
-<img src="https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif" alt="serenkapanoglu"/>
+<img align="center" src="https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif" alt="serenkapanoglu"/>
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
-- 💬 Ask me about **Flask,JavaScript**
+- 💬 Ask me about **Flask,JavaScript,React.js**
 
 ## 🌐 Connect with me :
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulserenkapanoglu/) 
