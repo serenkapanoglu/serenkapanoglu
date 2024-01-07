@@ -1,6 +1,6 @@
 <h1 align="center">Hello guys, I'm Seren Kapanoglu</h1>
 
-<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmgxNDdvanU5NDB3cTVnaGF4eWZ4cDlhamx4cnBtOXFhcjhqemoweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhVqGkxDYxAaRbOWVp/giphy.gif" alt="serenkapanoglu"/>
+<img width="70%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmgxNDdvanU5NDB3cTVnaGF4eWZ4cDlhamx4cnBtOXFhcjhqemoweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhVqGkxDYxAaRbOWVp/giphy.gif" alt="serenkapanoglu"/>
 <h3 align="center">A passionate software engineer from United States</h3>
 
 
