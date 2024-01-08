@@ -1,16 +1,14 @@
 <h1 align="center">Hello guys, I'm Seren Kapanoglu</h1>
+<h3 align="center">A passionate software engineer from United States</h3>
 <p align="center">
 <img width="560px" height="360px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmgxNDdvanU5NDB3cTVnaGF4eWZ4cDlhamx4cnBtOXFhcjhqemoweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhVqGkxDYxAaRbOWVp/giphy.gif" alt="serenkapanoglu"/>
   </p>
-<h3 align="center">A passionate software engineer from United States</h3>
+
 
 
 <img width="30%" src="https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy-downsized-large.gif" alt="serenkapanoglu" align="right"/>
 
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
-
-- 💬 Ask me about **Flask,JavaScript,React.js**
 
 ## 🌐 Connect with me :
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulserenkapanoglu/) 
