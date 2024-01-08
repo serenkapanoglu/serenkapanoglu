@@ -22,7 +22,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<div style="border: 2px solid #333; padding: 10px; background-color: #333;">
+<div style="border: 2px solid #333; padding: 10px; background-color: #fff;">
   <table>
     <tr>
       <td> 
