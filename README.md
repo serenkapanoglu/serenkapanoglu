@@ -1,7 +1,9 @@
 <h1 align="center">Hello guys, I'm Seren Kapanoglu</h1>
 
 
-  
+###
+
+  <img width="560px" height="360px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY1MXU5MTRvbGFzcmFyaTBrcnU1dTZqMmZycmU4c3VrcWpuZDFpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytdrKpOVEp1qpQ2UtS/giphy.gif" alt="serenkapanoglu"/>
 
 <p align="center">
   
