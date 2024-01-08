@@ -39,6 +39,7 @@
 ## PROJECTS
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Cocktail API Project](https://github.com/serenkapanoglu/BeABaristaAtHome2.git)| HTML,CSS,Bootstrap,Python,Flask,PostgreSQL,SQLAlchemy, Jinja |   <img width="350px" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY1MXU5MTRvbGFzcmFyaTBrcnU1dTZqMmZycmU4c3VrcWpuZDFpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytdrKpOVEp1qpQ2UtS/giphy.gif" alt="serenkapanoglu"/>
+[Cocktail API Project](https://github.com/serenkapanoglu/BeABaristaAtHome2.git)| HTML,CSS,Bootstrap,Python,Flask,PostgreSQL,SQLAlchemy,Jinja |  <img width="350px" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY1MXU5MTRvbGFzcmFyaTBrcnU1dTZqMmZycmU4c3VrcWpuZDFpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytdrKpOVEp1qpQ2UtS/giphy.gif" alt="serenkapanoglu"/>
+[Javascript Collection](https://github.com/serenkapanoglu/SerenNeDio)| HTML,CSS,Bootstrap,Python,Flask, JavaScript |  <img width="350px" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dpNHRueHF5NG81ajIxZHowb3p2NGRwZ2pyY3NvcmNxZHp1NTFtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3rJv2NEg0bWWNbdHXV/giphy.gif" alt="serenkapanoglu"/>
 
 
