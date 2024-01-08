@@ -17,10 +17,6 @@
   </p>
 
 
-
-
-
-
 <br/>
 <br/>
 
@@ -37,6 +33,7 @@
 </table>
 </div>
 
+##
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenkapanoglu" /><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1wcHliYjc0aWc1ZmhndXMwMXl6czNtazF2Z2k1bGtseHp4aTcyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" align="right"/></p>
 
