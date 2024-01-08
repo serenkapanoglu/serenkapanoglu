@@ -3,7 +3,8 @@
 
 ###
 
-  <img width="560px" height="360px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY1MXU5MTRvbGFzcmFyaTBrcnU1dTZqMmZycmU4c3VrcWpuZDFpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytdrKpOVEp1qpQ2UtS/giphy.gif" alt="serenkapanoglu"/>
+
+  <img width="560px" height="360px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmgxNDdvanU5NDB3cTVnaGF4eWZ4cDlhamx4cnBtOXFhcjhqemoweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhVqGkxDYxAaRbOWVp/giphy.gif" alt="serenkapanoglu"/>
 
 <p align="center">
   
@@ -33,7 +34,6 @@
 ## PROJECTS
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Cocktail API Project](https://github.com/serenkapanoglu/BeABaristaAtHome2.git)| HTML,CSS,Bootstrap,Python,Flask,PostgreSQL,SQLAlchemy, Jinja | <img width="560px" height="360px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmgxNDdvanU5NDB3cTVnaGF4eWZ4cDlhamx4cnBtOXFhcjhqemoweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhVqGkxDYxAaRbOWVp/giphy.gif" alt="serenkapanoglu"/>
+[Cocktail API Project](https://github.com/serenkapanoglu/BeABaristaAtHome2.git)| HTML,CSS,Bootstrap,Python,Flask,PostgreSQL,SQLAlchemy, Jinja |   <img width="560px" height="360px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY1MXU5MTRvbGFzcmFyaTBrcnU1dTZqMmZycmU4c3VrcWpuZDFpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytdrKpOVEp1qpQ2UtS/giphy.gif" alt="serenkapanoglu"/>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenkapanoglu" /><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1wcHliYjc0aWc1ZmhndXMwMXl6czNtazF2Z2k1bGtseHp4aTcyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" align="right"/></p>
 
