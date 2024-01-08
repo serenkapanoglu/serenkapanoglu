@@ -1,10 +1,11 @@
 <h1 align="center">Hello guys, I'm Seren Kapanoglu</h1>
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulserenkapanoglu/) 
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:kapanogluseren01@gmail.com)
 <p align="right">
 <img width="500px" height="300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmgxNDdvanU5NDB3cTVnaGF4eWZ4cDlhamx4cnBtOXFhcjhqemoweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhVqGkxDYxAaRbOWVp/giphy.gif" alt="serenkapanoglu"/>
   </p>
   
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulserenkapanoglu/) 
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:kapanogluseren01@gmail.com)
+
 
 
 
